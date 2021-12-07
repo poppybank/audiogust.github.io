@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Dakota Swift"
+---
+
 # Dakota Swift
 ### Song notes from the studio
 Throughout the process of building my studio, designing and making a space where I could create was my focus. With the space finished (as much as any such space can be called "finished") I shift from space creation to music creation. I'm very excited to start using all of the new gear to write new music and reimagine old songs from when I didn't have the space, gear or experience to make them sound how I want them to sound.
