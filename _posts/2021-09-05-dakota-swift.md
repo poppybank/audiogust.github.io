@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dakota Swift"
+title: "Dakota Swift"
 tag: songs
 ---
 
