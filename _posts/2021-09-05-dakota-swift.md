@@ -1,8 +1,6 @@
----
 layout: post
 title:  "Dakota Swift"
 tag: songs
----
 
 # Dakota Swift
 ### Song notes from the studio
